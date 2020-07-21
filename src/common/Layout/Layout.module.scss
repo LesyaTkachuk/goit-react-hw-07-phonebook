@@ -1,0 +1,19 @@
+.layout {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.container {
+  margin: 0 auto;
+  max-width: 360px;
+  padding: 10px;
+}
+
+.light {
+  color: #111111;
+  background-color: #fff;
+}
+
+.dark {
+  color: #fff;
+  background-color: #111111;
+}
